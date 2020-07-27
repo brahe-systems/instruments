@@ -1,0 +1,11 @@
+body {
+    background-color: #232323;
+    overflow: hidden;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
